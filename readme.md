@@ -3,6 +3,6 @@ Please first clone all the files then install the requirements using requirement
 Then run main.py
 # Covid-Win10-Notifier
 # For documentation visit the link given below
-**[Documentation]('https://covid-win10-notifier.netlify.app')**
+**[Documentation](https://covid-win10-notifier.netlify.app)**
 
 **[Bitbucket Link](https://DebadityaMalakar@bitbucket.org/DebadityaMalakar/covid-win10-notifier.git)**
